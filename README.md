@@ -11,4 +11,5 @@ Nesse projeto você terá o desafio de reconstruir a interface da página de log
 
 ## Créditos
 Bootcamp gratuito promovido pela [DIO](https://web.dio.me/home) em parceria com o Santander Universidades.
+
 [Repositório no GitHub](https://github.com/SpruceGabriela/instagram-dio) (implementação de referência).
