@@ -10,4 +10,5 @@ Nesse projeto você terá o desafio de reconstruir a interface da página de log
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Créditos
-[Repositório no GitHub](https://github.com/SpruceGabriela/instagram-dio) (implementação de referência)
+Bootcamp gratuito promovido pela [DIO](https://web.dio.me/home) em parceria com o Santander Universidades.
+[Repositório no GitHub](https://github.com/SpruceGabriela/instagram-dio) (implementação de referência).
